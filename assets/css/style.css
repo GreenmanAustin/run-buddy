@@ -387,11 +387,11 @@ section {
     text-align: center;
     width: 100%;
   }
-  
+
   .hero-cta, .hero-form {
     width: 100%;
   }
-
+  
   .hero-cta {
     text-align: center;
   }
@@ -399,14 +399,14 @@ section {
   .section-title {
     width: 80%;
   }
-
+  
   .trainer {
     flex: 0 70%;
   }
-
-  .contact-info iframe {
+  
+  .contact-info iframe{
     flex: 1 100%;
-  } 
+  }
 }
 
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
@@ -434,7 +434,7 @@ section {
   }
 
   .step-text {
-    flex: 100%
+    flex: 100%;  
   }
 }
 
@@ -467,5 +467,4 @@ section {
   .contact-form {
     order: 3;
   }
-
 }
