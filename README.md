@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://https://greenmanaustin.github.io/run-buddy/
+https://greenmanaustin.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [your name]
